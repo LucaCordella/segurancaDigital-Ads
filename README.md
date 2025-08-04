@@ -20,3 +20,5 @@ l: 108 u: 117 <br>
 1110101 <br>
 0011001 <br>
 25 -> EM (Fim de meio de transmiss o) 
+
+<img width="909" height="174" alt="image" src="https://github.com/user-attachments/assets/aa8fde62-b19d-40a0-b39b-af2f06452213" />
