@@ -1,4 +1,4 @@
-# Seguran-a-Digital---ADS
+# Matéria: Segurança Digital (ADS)
 
 *Aula 02 - Criptografia Simétrica:*
 A criptografia simétrica, também chamada de criptografia de chave secreta, é um método de criptografia que utiliza uma única chave tanto para criptografar quanto para descriptografar dados.
