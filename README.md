@@ -1,3 +1,3 @@
 # Matéria: Segurança Digital (ADS)
 
-<img width="785" height="774" alt="image" src="https://github.com/user-attachments/assets/ce105e54-f6e9-413e-b483-c321c9cc9f4a" />
+<img width="1409" height="918" alt="image" src="https://github.com/user-attachments/assets/a89e7627-a260-4a78-961f-b22ce533d226" />
